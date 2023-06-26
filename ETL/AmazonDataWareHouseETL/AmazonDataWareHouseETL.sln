@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "AmazonDataWareHouseETL", "AmazonDataWareHouseETL\AmazonDataWareHouseETL.dtproj", "{8EE573A5-B556-454E-8279-6F0BBC1A03FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE573A5-B556-454E-8279-6F0BBC1A03FC}.Development|Default.ActiveCfg = Development
+		{8EE573A5-B556-454E-8279-6F0BBC1A03FC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DA3C60-C3A7-442B-A742-C093DF6F94AA}
+	EndGlobalSection
+EndGlobal
